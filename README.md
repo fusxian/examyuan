@@ -20,3 +20,32 @@
     * 导入知识点功能
     * 导出学生做题信息
     * 导出错题相关信息
+
+---
+### 预计使用的技术
+
+---
+#### 后端技术
+
+1:SpringBoot  
+2:Redis  
+3:MySQL  
+4:Mybatis
+5:Freemarker
+6:FastJson
+7:WebSocket
+8:HikariCP or Druid
+
+---
+#### 前段技术
+
+1:VUE  
+2:jQuery
+
+
+---
+#### 运维方面
+1:Nginx
+2:Tomcat
+
+---
